@@ -21,5 +21,5 @@ This project is a **Streamlit-based RAG (Retrieval-Augmented Generation) assista
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/rag-hybrid-search.git
+   git clone https://github.com/aisha-farooq/rag-hybrid-search.git
    cd rag-hybrid-search
